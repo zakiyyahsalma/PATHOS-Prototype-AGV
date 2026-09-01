@@ -46,9 +46,9 @@ World Young Inventor's Exhibition (WYIE) 2025, Malaysia
 ## Team Members
 
 - Zakiyyah Mazaya Salma
-- Fahmi Faizullah Ghanzafar Wicaksono
-- Faqo Varian Gamal Hasan
-- Afra Andaru Rabbany Wijaya
+- Fahmi Faizullah Ghazanfar Wicaksono
+- Faiq Varian Gamal Hasan
+- Affa Ndaru Rabbany Wijaya
 - Kanaya Defitra Prasetyo Putri
 - Gerard Julian
 - Zinadine Zidan Alsyahana
